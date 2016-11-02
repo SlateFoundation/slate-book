@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* Creating a Slate Instance
 * Configuring Slate
 * Data and Integrations
 * Student Users' Guide
